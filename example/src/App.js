@@ -1,12 +1,13 @@
-import React from 'react'
-import { useMyHook } from 'test'
+import React from "react";
+import DroppzoneArea from "@devloops/material-ui-dropzone";
+import { CssBaseline } from "@material-ui/core";
 
 const App = () => {
-  const example = useMyHook()
   return (
-    <div>
-      {example}
-    </div>
-  )
-}
-export default App
+    <>
+      <CssBaseline />
+      <DroppzoneArea />
+    </>
+  );
+};
+export default App;
