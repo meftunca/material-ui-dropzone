@@ -5,7 +5,7 @@
   "description": "Material-ui dropzone plugin for React.",
   "author": "Muhammed Burak Şentürk",
   "license": "MIT",
-  "repository": "meftunca/material-ui-dropzone-helper",
+  "repository": "https://github.com/meftunca/material-ui-dropzone.git",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
