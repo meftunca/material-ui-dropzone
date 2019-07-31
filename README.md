@@ -8,7 +8,9 @@
 ## Install
 
 ```bash
-npm install --save material-ui-dropzone
+npm install --save @devloops/material-ui-dropzone
+#or
+yarn add @devloops/material-ui-dropzone
 ```
 
 ## DropzoneArea Usage

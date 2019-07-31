@@ -1,6 +1,6 @@
 {
   "name": "@devloops/material-ui-dropzone",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "typings": "typings/index.d.ts",
   "description": "Material-ui dropzone plugin for React.",
   "author": "Muhammed Burak Şentürk",
