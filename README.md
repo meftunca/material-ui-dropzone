@@ -56,6 +56,10 @@ const defultProps = {
 };
 ```
 
+<br/>
+<hr/>
+<br/>
+
 ## DropzoneArea Usage
 
 ```jsx
@@ -81,6 +85,7 @@ const DefaultBannerComponent = ({ uploadIcon, bannerStyle, openFileDialog, banne
 ```
 
 <br/>
+
 ### Props
 
 ```js
@@ -125,7 +130,8 @@ const defultProps = {
   onError: PropTypes.func,
   fabText: PropTypes.string,
   inputProps: PropTypes.object
-};``
+};
+```
 
 ## Todo List
 
@@ -140,4 +146,3 @@ MIT © [meftunca](https://github.com/material-ui-dropzone)
 ---
 
 This hook is created using [create-react-hook](https://github.com/hermanya/create-react-hook).
-```
